@@ -3,13 +3,13 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="generator" content="Google Web Designer 2.0.5.0124">
+  <meta name="generator" content="Google Web Designer 4.2.0.0802">
   <meta name="template" content="Banner 3.0.0">
   <meta name="environment" content="gwd-genericad">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="gwdpage_style.css" rel="stylesheet" data-version="11" data-exports-type="gwd-page">
-  <link href="gwdpagedeck_style.css" rel="stylesheet" data-version="10" data-exports-type="gwd-pagedeck">
-  <link href="gwdimage_style.css" rel="stylesheet" data-version="10" data-exports-type="gwd-image">
+  <link href="gwdpage_style.css" rel="stylesheet" data-version="12" data-exports-type="gwd-page">
+  <link href="gwdpagedeck_style.css" rel="stylesheet" data-version="11" data-exports-type="gwd-pagedeck">
+  <link href="gwdimage_style.css" rel="stylesheet" data-version="12" data-exports-type="gwd-image">
   <style type="text/css" id="gwd-lightbox-style">
     .gwd-lightbox {
       overflow: hidden;
@@ -219,13 +219,42 @@
       width: 300px;
       height: 250px;
     }
+    .gwd-image-1opa {
+      position: absolute;
+      width: 113px;
+      height: 26px;
+      left: 23px;
+      top: 21px;
+      opacity: 0;
+    }
+    @keyframes gwd-gen-1d4lgwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        animation-timing-function: linear;
+      }
+      4.63% {
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+      95.37% {
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 0;
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-1d4lgwdanimation {
+      animation: gwd-gen-1d4lgwdanimation_gwd-keyframes 10.8s linear 0s 1 normal forwards;
+    }
   </style>
   <script data-source="googbase_min.js" data-version="4" data-exports-type="googbase" src="googbase_min.js"></script>
   <script data-source="gwd_webcomponents_min.js" data-version="5" data-exports-type="gwd_webcomponents" src="gwd_webcomponents_min.js"></script>
-  <script data-source="gwdpage_min.js" data-version="11" data-exports-type="gwd-page" src="gwdpage_min.js"></script>
-  <script data-source="gwdpagedeck_min.js" data-version="10" data-exports-type="gwd-pagedeck" src="gwdpagedeck_min.js"></script>
+  <script data-source="gwdpage_min.js" data-version="12" data-exports-type="gwd-page" src="gwdpage_min.js"></script>
+  <script data-source="gwdpagedeck_min.js" data-version="11" data-exports-type="gwd-pagedeck" src="gwdpagedeck_min.js"></script>
   <script data-source="gwdgenericad_min.js" data-version="5" data-exports-type="gwd-genericad" src="gwdgenericad_min.js"></script>
-  <script data-source="gwdimage_min.js" data-version="10" data-exports-type="gwd-image" src="gwdimage_min.js"></script>
+  <script data-source="gwdimage_min.js" data-version="12" data-exports-type="gwd-image" src="gwdimage_min.js"></script>
   <script type="text/javascript" src="https://quickresource.eyereturn.com/eyebuild/eyebuild_1_19.js"></script>
   <script type="text/javascript" gwd-events="support" src="gwd-events-support.1.0.js"></script>
   <script type="text/javascript" gwd-events="handlers">
@@ -255,18 +284,19 @@
 
 <body>
   <gwd-genericad id="gwd-ad">
-    <div is="gwd-pagedeck" class="gwd-page-container" id="pagedeck">
-      <div is="gwd-page" id="page1" class="gwd-page-wrapper gwd-page-size gwd-lightbox gwd-div-10iz" data-gwd-width="300px" data-gwd-height="250px">
+    <gwd-pagedeck class="gwd-page-container" id="pagedeck">
+      <gwd-page id="page1" class="gwd-page-wrapper gwd-page-size gwd-lightbox gwd-div-10iz" data-gwd-width="300px" data-gwd-height="250px">
         <div class="gwd-page-content gwd-page-size">
-          <img is="gwd-image" source="assets/frame1-2.jpg" id="frame1" class="gwd-img-rhwu gwd-gen-eyingwdanimation">
-          <img is="gwd-image" source="assets/frame2-2.jpg" id="frame2" class="gwd-img-1drd gwd-gen-1546gwdanimation">
-          <img is="gwd-image" source="assets/frame3-2.jpg" id="frame3" class="gwd-img-r7bk gwd-gen-1udsgwdanimation">
-          <img is="gwd-image" source="assets/frame4-2.jpg" id="frame4" class="gwd-img-12lx gwd-gen-2qlagwdanimation">
-          <img is="gwd-image" source="assets/frame5-2.jpg" id="frame5" class="gwd-img-zx2t gwd-gen-wtcegwdanimation">
+          <gwd-image source="assets/frame1-2.jpg" id="frame1" class="gwd-img-rhwu gwd-gen-eyingwdanimation"></gwd-image>
+          <gwd-image source="assets/frame2-2.jpg" id="frame2" class="gwd-img-1drd gwd-gen-1546gwdanimation"></gwd-image>
+          <gwd-image source="assets/frame3-2.jpg" id="frame3" class="gwd-img-r7bk gwd-gen-1udsgwdanimation"></gwd-image>
+          <gwd-image source="assets/frame4-2.jpg" id="frame4" class="gwd-img-12lx gwd-gen-2qlagwdanimation"></gwd-image>
+          <gwd-image source="assets/frame5-2.jpg" id="frame5" class="gwd-img-zx2t gwd-gen-wtcegwdanimation"></gwd-image>
+          <gwd-image id="logo" source="assets/logo.svg" scaling="stretch" class="gwd-image-1opa gwd-gen-1d4lgwdanimation"></gwd-image>
           <div class="gwd-div-ioud" id="clickthrough"></div>
         </div>
-      </div>
-    </div>
+      </gwd-page>
+    </gwd-pagedeck>
   </gwd-genericad>
   <script type="text/javascript" id="gwd-init-code">
     (function() {
