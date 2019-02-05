@@ -1,1 +1,24 @@
-<svg id="Content" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="1136" viewBox="0 0 640 1136"><defs><style>.cls-1{fill:url(#New_Gradient_Swatch_1);}.cls-2{fill:#fff;}.cls-3{fill:#ba9544;}</style><linearGradient id="New_Gradient_Swatch_1" x1="423.33015" y1="465.48673" x2="514.41884" y2="465.48673" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#a88a34"/><stop offset="0.49324" stop-color="#caaf67"/><stop offset="1" stop-color="#957f2e"/></linearGradient></defs><title>pine</title><polygon class="cls-1" points="505.322 497.036 459.775 512.824 423.33 481.275 432.432 433.938 477.974 418.15 514.419 449.699 505.322 497.036"/><path class="cls-2" d="M484.024,479.79514l-15.22913-36.35277-15.06635,36.35277,14.30532,2.86371v4.06461a.84071.84071,0,0,0,1.68041,0v-4.06461Z"/><path class="cls-3" d="M441.00767,557.26774V539.86931h7.58593q6.0879,0,6.0879,5.01074,0,5.19726-6.07813,5.19629h-4.11719v7.1914Zm3.47851-10.43847h4.8711q2.10059-.03516,2.1582-1.91407-.05859-1.7168-2.12305-1.78613h-4.90625Z"/><path class="cls-3" d="M457.246,539.85759h3.4668v17.41015H457.246Z"/><path class="cls-3" d="M464.20493,557.26774V539.86931h1.16016l10.90234,10.90332V539.86931H479.746v17.39843h-1.27539l-10.78711-10.78711v10.78711Z"/><path class="cls-3" d="M483.3065,557.26774V539.881l12.7832-.01171v3.248H486.787v3.71192h6.97071v3.23535H486.787v3.95508h9.2793v3.248Z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Content" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 640 1136" style="enable-background:new 0 0 640 1136;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#B89344;}
+</style>
+<title>pine</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="421.69" y1="356.255" x2="508.8" y2="356.255" gradientTransform="matrix(1 0 0 -1 0 1136)">
+	<stop  offset="0" style="stop-color:#A68834"/>
+	<stop  offset="0.49" style="stop-color:#C8AD67"/>
+	<stop  offset="1" style="stop-color:#937F2E"/>
+</linearGradient>
+<polygon class="st0" points="500.1,809.9 456.5,825 421.7,794.8 430.4,749.6 474,734.5 508.8,764.7 "/>
+<path class="st1" d="M479.7,793.4l-14.6-34.8l-14.4,34.8l13.7,2.7v3.9c0,0.4,0.5,0.8,0.9,0.7c0.4,0,0.7-0.3,0.7-0.7v-3.9
+	L479.7,793.4z"/>
+<path class="st2" d="M438.6,867.5v-16.6h7.2c3.9,0,5.8,1.6,5.8,4.8c0,3.3-1.9,5-5.8,5h-3.9v6.9L438.6,867.5z M441.9,857.5h4.6
+	c1.3,0,2-0.6,2.1-1.8s-0.7-1.7-2-1.7H442L441.9,857.5z"/>
+<path class="st2" d="M454.1,850.9h3.3v16.7h-3.3V850.9z"/>
+<path class="st2" d="M460.8,867.5v-16.6h1.1l10.4,10.4v-10.4h3.3v16.6h-1.2l-10.3-10.3v10.3H460.8z"/>
+<path class="st2" d="M479,867.5v-16.6h12.2v3.1h-8.9v3.5h6.6v3.1h-6.7v3.8h8.9v3.1L479,867.5z"/>
+</svg>
